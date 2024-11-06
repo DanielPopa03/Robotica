@@ -1,4 +1,5 @@
 1.descrierea task-ului/ cerințele
+
   Jocul este în repaus. LED-ul RGB are culoarea albă.
   Se alege dificultatea jocului folosind butonul de dificultate, iar în terminal va apărea “Easy/Medium/Hard mode on!”.
   Se apasă butonul de start/stop.
@@ -10,6 +11,7 @@
   Jocul se poate opri oricând cu butonul de start/stop.
 
 2.componentele utilizate
+
   Arduino UNO (ATmega328P microcontroller)
   1x LED RGB (pentru a semnaliza dacă cuvântul corect e scris greșit sau nu)
   2x Butoane (pentru start/stop rundă și pentru selectarea dificultății)
